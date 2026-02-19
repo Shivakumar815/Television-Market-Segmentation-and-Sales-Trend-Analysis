@@ -69,7 +69,7 @@ The insights gained can help businesses, analysts, and consumers make informed d
 ---
 
 ## 👤 Author
-Shiva Kumar  
+Police Patel Shiva Kumar Reddy 
 
 ## 📄 License
 This project is for academic and learning purposes only.
